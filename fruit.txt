@@ -1,0 +1,7 @@
+These are fruit:
+Orange
+Grapefruit
+Lemon
+Kiwi
+Mango
+Strawberry
